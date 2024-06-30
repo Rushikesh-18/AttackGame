@@ -11,9 +11,14 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-To run this AttackDefend Game:
+## To run this AttackDefend Game:
+
 Step-1) Simply download and extract the zip file and open in any code editor enabke with java environment.
+
 Step-2)Run Main.java 
+
       a)Compile- javac Main.java
+      
       b)Run - java Main
-//It is a console program so output will be displayed in same.
+      
+It is a console program so output will be displayed in same.
