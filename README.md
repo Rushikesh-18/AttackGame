@@ -11,8 +11,9 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+To run this AttackDefend Game:
+Step-1) Simply download and extract the zip file and open in any code editor enabke with java environment.
+Step-2)Run Main.java 
+      a)Compile- javac Main.java
+      b)Run - java Main
+//It is a console program so output will be displayed in same.
