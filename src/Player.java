@@ -1,6 +1,9 @@
+
+/**
+ * The Player class represents a player in a game with attributes such as health, strength, attack, and
+ * name, along with methods to interact with these attribute.
+ */
 public class Player {
-    //Creating player dm & mfs
-    
     private int health;
     private int strength;
     private int attack;
@@ -38,10 +41,7 @@ public class Player {
     }
 
     @Override
-
     public String toString() {
         return name + " [Health: " + health + ", Strength: " + strength + ", Attack: " + attack + "]";
     }
 }
-
-
